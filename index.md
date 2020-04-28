@@ -10,3 +10,13 @@
   
 ###  To be technology or not to be. 
 
+## Degrees of Freedom, Dimensions of Power
+
+  The Internet has come a long way with the fundemental design being decentralization, we now find ourselves battling with big business objectives and a much more centralized design. Companies that provide Internet access have a scary amount of power in their hands. Privately owned, they can impose their power on a whim, provided there are no laws against it - which in the technologic expansion we're in now, are ever-growing. The article describes this potential imbalance of power as companies seek to structure and perfect their systems from unlawful users which is in direct conflict with the original Internet design. 
+  
+  While it may be obvious that a strictly wild west approach to the Internet would be disasterous, it was in this state of chaos that allowed for innovation and expansion. Powered with curiousity and freedom, software developers were able to work without restrictions in mind. However, malicious users could also impose this freedom to do harm. The difficulty in the direction the Internet must go falls under a struggle of power between freedom and regulations that restrict them. Allowing too much centralization of Internet power stifles the growth of technology, while not enough enables malicious users to do more harm.
+  
+  In a perfect world, there wouldn't be bad people. Unfortunately, there are more than people would like to consider. Ultimately, with enough power, it only takes one person to break everything if fail safes and protection aren't in place. 
+  
+  The paper goes on to expand on social influers and the power in which they can impose on their users. Facebook can
+
