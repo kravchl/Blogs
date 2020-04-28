@@ -20,6 +20,8 @@
   
   The paper goes on to expand on social influencers and the power in which they can impose on their users. Facebook has immense behavioral analysis tools that they can use to affect what their users do. Through sheer numbers testing, they can put themselves in a position of power that rivals ISPs. They are an example of how a centralization of data can provide power to a single entity that could prove dangerous in the wrong hands.
   
+   The power of data is scary as in previous versions of the Internet, anonymity was almost gauranteed. Now, we find government agencies able to tap into data stashed away that could identify us online by just the behavior of our Internet usage. 
+  
   The Internet is a scary, complex, and ever-developing place. We must tread lightly as a whole and not allow for big business to gain complete control over it. Their intentions are rooted in a desire to protect their assets and not necessarily to protect the users. A fully decentralized approach is again, foolish, but the basic principle should remain to provide the freedoms of innovation that built the Internet in the first place.  
 
 
