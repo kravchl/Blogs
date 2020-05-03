@@ -30,4 +30,13 @@
   
   The experience of the Internet is becoming more diverse and more accessible. Increases in usage means increases in risk to its users. Providing universal protection such as encryption to the users is certainly possible, however not entirely implimented as companies still want to track users to provide customized experiences as well as safety reasons to prevent malicious users. Again, we find ourselves with the problem of aloting the power from ISPs to users. Who should get what rights?
 
+# Week 5
+
+## Surveillance & Society
+
+  In our growing networked world, the need for privacy is more important than ever, but the boundaries on what and who this privacy applies to isn’t well defined. Submitting DNA into a laboratories data base not only exposed one’s personal data into the world, but their immediate family as well as potential future kids. It’s data such as this that is being used to provide personalized experiences on the web for individuals. The more data our computer systems have on us, the more related content we will receive. 
+  
+  The problem in present society is that this data harvesting often goes unnoticed and borderline without our full consent. We may agree to lengthy terms and conditions, but rarely do people truly understand what they’re putting out into the world by simply browsing social media and clicking on a few links. They have reason to be frustrated when at points they’re feeling stalked when visiting a certain website starts a chain of related ads in their searches and social media pages. These stalker ads are harmless enough, but the question of what exactly is being tracked and to what extent comes up at one point or another. 
+  
+  One can combat these fancy behavior analysis algorithms using insider content that only people within one’s own social circle would understand, but that content is being tracked, nonetheless. Simply not using certain platforms known for their heavy tracking could be an option, but to not use a widely used platform alienates those afraid for their privacy and limits their use of the internet. We may be reaching a point where anything being done on the Internet is tracked by someone or another and where law must be stringently put in place to prevent it.
 
