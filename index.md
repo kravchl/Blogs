@@ -53,3 +53,11 @@
   Trustworthiness by contrast is the expectation that a website is going to be able to perform and allow for the building of trust to occur. This expectation can arise from assurances linked to the website in the form of other well known websites or people advocating positively for the site. These assurances often provide a quicker route to building trust, but as the article points out, that trust is broken easier if those assurances hadn't been there to help with process.
   
   To say I trust technology should be understood as trust in the developers, as saying piece of technology programmed to perform tasks is trustworthy doesn't align with the meaning of the word. Understanding how people build trust and have certain expectations of trustworthiness helps in the development of technology. The more people trust a technology, the more willing they will be to invest their time and money into it.
+
+# Week 6
+
+## This World of Ours
+
+  The author seems very cynical of the security needs of the world and accurately descibes why he is. Asking for improved encryption that make for single sentence messages with 95% added encryption overhead is overkill. The needs for encryption has it's place. I got the sense that the author was almost advocating for just enough security to prevent people from getting hacked by most attempt, provided they don't click on that link, and that getting hacked from that experienced computer savant is unsecurable and attempting so would be futile. 
+  
+  The world isn't ready for people to adopt concepts of encryption in their everyday lives if they're the ones that have to implement it. Getting the next generation interested is difficult at best, and as such the approach on security should be with all that in mind. The majority of computer users will click the link to win a new iPad. So, forces such harsh encryption improvements when people click the link anyways seems pointless.
