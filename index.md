@@ -60,4 +60,8 @@
 
   The author seems very cynical of the security needs of the world and accurately descibes why he is. Asking for improved encryption that make for single sentence messages with 95% added encryption overhead is overkill. The needs for encryption has it's place. I got the sense that the author was almost advocating for just enough security to prevent people from getting hacked by most attempt, provided they don't click on that link, and that getting hacked from that experienced computer savant is unsecurable and attempting so would be futile. 
   
-  The world isn't ready for people to adopt concepts of encryption in their everyday lives if they're the ones that have to implement it. Getting the next generation interested is difficult at best, and as such the approach on security should be with all that in mind. The majority of computer users will click the link to win a new iPad. So, forces such harsh encryption improvements when people click the link anyways seems pointless.
+  The world isn't ready for people to adopt concepts of encryption in their everyday lives if they're the ones that have to implement it. Getting the next generation interested is difficult at best, and as such the approach on security should be with all that in mind. The majority of computer users aren't informed and many will click the link to win a new iPad. So, forces such harsh encryption improvements when people click the link anyways seems pointless.
+  
+## Why Johnny Can't Encrypt
+
+  The paper follows a scientific case study performed on the usability of PGP 5.0 and it's ease of use for novice computer users.
