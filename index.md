@@ -65,3 +65,7 @@
 ## Why Johnny Can't Encrypt
 
   The paper follows a scientific case study performed on the usability of PGP 5.0 and it's ease of use for novice computer users.
+  
+# Week 7
+
+## Sorting Things Out
