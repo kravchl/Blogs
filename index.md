@@ -64,7 +64,9 @@
   
 ## Why Johnny Can't Encrypt
 
-  The paper follows a scientific case study performed on the usability of PGP 5.0 and it's ease of use for novice computer users.
+  The paper follows a scientific case study performed on the usability of PGP 5.0 and it's ease of use for novice computer users. The experiment chose PGP as it was the most accessible and user friendly encryption service at the time. It serves to prove that users who may argue they are technologically savvy cannot even perform the basic reccomended encryption for conversing online. What good is a service that no one knows how to use properly. 
+  
+  Reccomending security on a system will fall on deaf ears if they have no idea how to impliment it. That's the challenge in designing technology moving forward. There needs to be a box you stick text in and a send button, with encryption entirely in the background if we want there to be encryption all the time. Users cannot be expected to understand how technology works, because they have no reason to learn. A hack on their credit card may be incentive, but they're not going to take up a two year course in cybersecurity afterwards.
   
 # Week 7
 
