@@ -23,7 +23,8 @@
    The power of data is scary as in previous versions of the Internet, anonymity was almost gauranteed. Now, we find government agencies able to tap into data stashed away that could identify us online by just the behavior of our Internet usage. 
   
   The Internet is a scary, complex, and ever-developing place. We must tread lightly as a whole and not allow for big business to gain complete control over it. Their intentions are rooted in a desire to protect their assets and not necessarily to protect the users. A fully decentralized approach is again, foolish, but the basic principle should remain to provide the freedoms of innovation that built the Internet in the first place. 
-  
+
+
 ## The Contingent Internet
  
   This paper has a similar to theme to the one above. The author poses the question at first whether it's possible for the Internet to not have developed. As if to consider an alternate dimension in which the world was not connected via near instantaneous communcation. It would appear that the Internet was inevitable. 
