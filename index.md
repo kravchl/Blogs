@@ -1,5 +1,20 @@
 ## Welcome to Leo's Blog
 
+# Week 2
+
+
+### References
+Latour, Bruno. “On actor-network theory. A few clarifications plus more than a few complications”.  Vol. 25 N° 3 et 4, pp.47-64.
+Norman, Donald and Stappers, Pieter. “DesignX: Complex Sociotechnical Systems”. Published March 3, 2016.
+Payne, Bryan and Edwards, Keith. “A Brief Introduction to Usable Security”.
+
+# Week 3
+
+### References
+Dourish, Paul. “Implications for Design”. Published 2006.
+IDEO.org. “The Field Guide to Human-Centered Design”. 1st Edition. Published 2015.
+Shilton, Katie. “Values Levers: Building Ethics into Design”. Published 2012.
+
 # Week 4
 
 ## Multi-Tussles
@@ -31,6 +46,11 @@
   
   The experience of the Internet is becoming more diverse and more accessible. Increases in usage means increases in risk to its users. Providing universal protection such as encryption to the users is certainly possible, however not entirely implimented as companies still want to track users to provide customized experiences as well as safety reasons to prevent malicious users. Again, we find ourselves with the problem of aloting the power from ISPs to users. Who should get what rights?
 
+### References
+Benkler, Yochai. “Degrees of Freedom, Dimensions of Power”. Published 2016.
+Clark, David. “The Contingent Internet”. Published 2016.
+O’Hara, Dustin. “Internet Tussles – a framework for analyzing heterogeneous networks”. Published 2020.
+
 # Week 5
 
 ## Surveillance & Society
@@ -40,7 +60,7 @@
   The problem in present society is that this data harvesting often goes unnoticed and borderline without our full consent. We may agree to lengthy terms and conditions, but rarely do people truly understand what they’re putting out into the world by simply browsing social media and clicking on a few links. They have reason to be frustrated when at points they’re feeling stalked when visiting a certain website starts a chain of related ads in their searches and social media pages. These stalker ads are harmless enough, but the question of what exactly is being tracked and to what extent comes up at one point or another. 
   
   One can combat these fancy behavior analysis algorithms using insider content that only people within one’s own social circle would understand, but that content is being tracked, nonetheless. Simply not using certain platforms known for their heavy tracking could be an option, but to not use a widely used platform alienates those afraid for their privacy and limits their use of the internet. We may be reaching a point where anything being done on the Internet is tracked by someone or another and where law must be stringently put in place to prevent it.
-  
+
 ## Security & Privacy as a Social and Cultural Phenomenon 
   
  Security is often directly thought of as a tech specific concept. Where there is security, there must be some fancy tech. Privacy on the otherhand is a socially constructed concept. It's arrived to by societies mutual agreement, often agreed upon through common law, that a concept, process, or thought is to remain secret and only be available to those within the circle of inclusion. These secrets vary culturally and among different social groups. 
@@ -55,6 +75,11 @@
   
   To say I trust technology should be understood as trust in the developers, as saying piece of technology programmed to perform tasks is trustworthy doesn't align with the meaning of the word. Understanding how people build trust and have certain expectations of trustworthiness helps in the development of technology. The more people trust a technology, the more willing they will be to invest their time and money into it.
 
+### References
+Boyd, D. 2012. “Networked Privacy.” Surveillance and Society. Published 2012.
+Cheshire, C. 2011. “Online Trust, Trustworthiness, or Assurance?” Daedalus, the Journal of the American Academy of Arts & Sciences, vol. 140 (4), 2011, pp. 49-58.
+Dourish, P. & Anderson, K. 2006. “Collective Information Practice: Exploring Privacy and Security as Social and Cultural Phenomena” Human-Computer Interaction, vol. 21, 2006, pp. 319-342
+
 # Week 6
 
 ## This World of Ours
@@ -68,6 +93,11 @@
   The paper follows a scientific case study performed on the usability of PGP 5.0 and its ease of use for novice computer users. The experiment chose PGP as it was the most accessible and user-friendly encryption service at the time. It serves to prove that users who may argue they are technologically savvy cannot even perform the basic recommended encryption for conversing online. What good is a service that no one knows how to use properly. 
   
   Recommending security on a system will fall on deaf ears if they have no idea how to implement it. That's the challenge in designing technology moving forward. There needs to be a box you stick text in and a send button, with encryption entirely in the background if we want there to be encryption all the time. Users cannot be expected to understand how technology works, because they have no reason to learn. A hack on their credit card may be incentive, but they're not going to take up a two-year course in cybersecurity afterwards.
+  
+### References
+Mickens, James. “This World of Ours”. Published 2014.
+Salma, Sasse, Bonneau, Danilova, Naiakshina, Smith. “Obstacles to the Adoption of Secure Communication Tools”.
+Whitten & Tygar. “Why Johnny Can’t Encrypt: A Usability Evaluation of PGP 5.0”.
   
 # Week 7
 
@@ -88,3 +118,15 @@
   The paper follows a heavy ontological approach to the science and technology of biometrics and its effects on society. At times I felt the paper went in circles brandishing the term "consituted technology" after explaining the pros and cons of biometrics. In a nutshell, there are pros and cons to biometrics. This "constitutes" as the paper so often states, the biometric technology that when taken from a science and technology study approach is entirely positive. The issue arises when individuals make claim to their human rights. The claim should be mute as the cons of identity theft are understood. No one wants their identity stolen and find themselves with shot credit and debt collectors chasing them endlessly. The goal in the refugee case is assurance that people coming in are documented so they both function as seemingly more normal humans in society and be identified if they chose to break the law.
   
   To shun technology is one thing, but to be skeptical and approach it with caution is another. 
+
+### References
+Bowker, G. C., & Star, S. L. (2008). Sorting things out: classification and its consequences. Cambridge, MA: MIT Press.
+Jacobsen, K. L. (2015). Experimentation in humanitarian locations: UNHCR and biometric registration of Afghan refugees. Security Dialogue, 46, 144–164.
+Mordini, E. (2008). Body, Bio-metrics and Identity. Bioethics, 22(9), 488–498. doi: 10.111/j.1467-8519.2008.00700.x
+
+# Week 8
+
+Search engines have no doubt access to immense pools of data. When you search for something, your given results that are hopefully relevant to what you need. With so many possible sources of information, it's hard to not wonder why a particular search always gives certain sites. It's also naive to not consider that these huge search engines are free of bugs and cannot be manipulated. When you examine how they function, the point is to provide the most relevant information that the most people have clicked on. If someone clicks on something, there's a good chance that means the link is relevant and what they're looking for. With enough visits and clicks, these links can be manipulated to be higher up on the relevant charts.
+
+Clearly, there is alot to gain from being able to force content to users without them knowing. This paves the way for possible mental manipulation as the people start to see slews of similar data reinforcing ideas. This type of manipulation can be political or purely financial, but regardless it's clear we need to create environments free of these bad actors attempting to pursuade populations. The difficulty is puting in systems that catch metadata manipulation in a way that doesn't collect data that could be infringing on privacy rights/laws.
+
