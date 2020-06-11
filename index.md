@@ -134,13 +134,16 @@ Clearly, there is alot to gain from being able to force content to users without
 <h2>
 <p align="center"> 
 <b> AI & Machine Learning* <br>
+  </p></h2>
+  <h4>
+<p align="center">
 Why artificial intelligence is closer than people think <br>
 Leo Kravchenko <br>
 
 Cybersecurity, Western Washington University, Bellingham, WA, United States, leokravchenko@yahoo.com
   </b><br>
   </p>
-  </h2>
+  </h4>
 ## ABSTRACT
 Artificial intelligence is humankinds means to a more advanced future. The human mind is painfully slow at learning and in order for major advancements in technology to occur, we need to develop all of our efforts into this technology. A physicist can spend twenty or so years learning how and why the world works before ever attempting to develop any new theories. Similarly, a person can devote the same amount of time on mastering a game like Go, before attempting to create game breaking new strategies. A properly coded self-learning AI system can potentially learn both in a matter of months if not less. It’s clear that we need to embrace technology in order to improve upon it, however the dangers to human kind are great and as such the level of trust needed is going to be well established before we can start pouring all our efforts into this revolutionizing field.  
 
