@@ -131,14 +131,16 @@ Search engines have no doubt access to immense pools of data. When you search fo
 Clearly, there is alot to gain from being able to force content to users without them knowing. This paves the way for possible mental manipulation as the people start to see slews of similar data reinforcing ideas. This type of manipulation can be political or purely financial, but regardless it's clear we need to create environments free of these bad actors attempting to pursuade populations. The difficulty is puting in systems that catch metadata manipulation in a way that doesn't collect data that could be infringing on privacy rights/laws.
 
 # AI Case Study
+<h2>
 <p align="center"> 
-<b> <h2>AI & Machine Learning* <br>
+<b> AI & Machine Learning* <br>
 Why artificial intelligence is closer than people think <br>
-Leo Kravchenko </h2><br>
+Leo Kravchenko <br>
 
 Cybersecurity, Western Washington University, Bellingham, WA, United States, leokravchenko@yahoo.com
   </b><br>
   </p>
+  <h2>
 ## ABSTRACT
 Artificial intelligence is humankinds means to a more advanced future. The human mind is painfully slow at learning and in order for major advancements in technology to occur, we need to develop all of our efforts into this technology. A physicist can spend twenty or so years learning how and why the world works before ever attempting to develop any new theories. Similarly, a person can devote the same amount of time on mastering a game like Go, before attempting to create game breaking new strategies. A properly coded self-learning AI system can potentially learn both in a matter of months if not less. It’s clear that we need to embrace technology in order to improve upon it, however the dangers to human kind are great and as such the level of trust needed is going to be well established before we can start pouring all our efforts into this revolutionizing field.  
 
