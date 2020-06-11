@@ -132,9 +132,9 @@ Clearly, there is alot to gain from being able to force content to users without
 
 # AI Case Study
 <p align="center"> 
-<b> # AI & Machine Learning* <br>
-## Why artificial intelligence is closer than people think <br>
-## Leo Kravchenko <br>
+<b> AI & Machine Learning* <h2><br>
+Why artificial intelligence is closer than people think <h2><br>
+Leo Kravchenko <h2><br>
 
 Cybersecurity, Western Washington University, Bellingham, WA, United States, leokravchenko@yahoo.com
   </b><br>
