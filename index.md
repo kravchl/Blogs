@@ -23,6 +23,18 @@ Payne, Bryan and Edwards, Keith. “A Brief Introduction to Usable Security”.
 
 # Week 3
 
+## Field Guide Human-Centered Design
+
+Technology should be designed with humans in mind. This is a general statement, a truism that would never be refuted. Obviously, humans are the ones using the technology, but in order to properly design for humans, it must be done ethnographically. The paper breaks the process down into inspiration, ideation, and implimentation. Without knowing what a culture needs how can you design around it. The inspiration portion means immersing yourself in the culture you are trying to learn about in order to better understand it. If you don't try to understand, then what's the point in attempting to create a system meant for it. In order to better understand the culture, the ideation step involves actively brainstorming within the culture to formulate ideas. Lastly, even when deploying a system the job isn't done there. One must continue to learn and adapt the system to the needs of the culture. People change and needs change, so the system needs to be ready to do so.
+
+While certainly a good-hearted approach to design, I struggled to see the neccessity in learning about culture before creating something like accounting software or a social app. I realize that cultural practices vary, but the point of technology is to provide a very specific purpose for specific demographics. Attempting to morph a system to suit all cultures seems like a money pit, if the point is to generate revenue. As long as the system isn't infringing on rights, why should they be spending time (which costs money) to understand cultures that may never use their product?
+
+## Dourish Design
+
+Human-computer interaction (HCI) from a ethological perspective has long been dismissed in the tech design field. The paper explains the hierarchical power differences between engineering and the social study fields, with engineers on top. It goes on to explain the history of the struggle HCI ethnography has in having a say in technological design. I will say I too fail to see the point in discussing it, however the paper brings up certain aspects that go into design that are in fact ethnographic means of discovering how something should be designed. 
+
+To both summerize and voice my opinion, the paper offers the arguement that those who seek to approach technical design through analyzing the needs and outcomes a system has on society should not be dismissed, but rather understood as a core requirement in the design process. In that regard, I would agree that designing a system that fits the needs of who your targeting demographic is makes sense. However, that is just one core principle among many more technical needs that have precedence.
+
 ### References
 Dourish, Paul. “Implications for Design”. Published 2006.
 IDEO.org. “The Field Guide to Human-Centered Design”. 1st Edition. Published 2015.
