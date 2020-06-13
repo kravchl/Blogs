@@ -1,4 +1,4 @@
-## Welcome to Leo's Blog
+# Welcome to Leo's Blog
 
 # Week 2
 
@@ -8,7 +8,13 @@ Usable security is a hot topic these days. The paper went over some helpful refr
 
 ## DesignX: Sociotechnical Systems
 
+The complexity of sociotechnical systems can become overcomplicated very quickly. How does one consider all the possible uses and ramifications of a design? It's nearly impossible. That's what I feel is the takeaway here, that design needs to be managable and fixable. Sitting down and attempting to design an entire system from nothing and proceeded to throw your effort into designing it all at once would sound foolish to anyone, but unfortunately its how many systems run. We've reached a point in technology where considerations are finally being made into not just the end product, but every working component within it that allows it to function as intended and more importantly not function in any other unintended way. These unintentional uses are where the dangers lie when releases a poorly designed system. 
 
+The paper goes on in detail explaining the intricacies of systems used in society, but ultimately concludes with a glimmer of hope: if design is broken down into parts, in the end it will come together to form the desired grand design and allow for changes to be made as necessary and as bugs arise. The system needs to be secured from the start, but maintained regularly and be built in such a way that fixes don't open up new problems.
+
+## Actor-network theory
+
+The over-arching theme here is the word networks is misused. The paper discusses several theories that aim to explain the difficultly in understanding the true meaning of the word "network". I may be way off base, but it appears to be more related to the philosophy is being and explaining relationships that exist within a network. One of the misunderstandings is treating the word network as purely a technical term, which the paper explains is incorrect. A challenging read that would need active note taking and diagram work to be able to relate to cybersecurity.
 
 ### References
 Latour, Bruno. “On actor-network theory. A few clarifications plus more than a few complications”.  Vol. 25 N° 3 et 4, pp.47-64.
