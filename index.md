@@ -155,6 +155,18 @@ Search engines have no doubt access to immense pools of data. When you search fo
 
 Clearly, there is alot to gain from being able to force content to users without them knowing. This paves the way for possible mental manipulation as the people start to see slews of similar data reinforcing ideas. This type of manipulation can be political or purely financial, but regardless it's clear we need to create environments free of these bad actors attempting to pursuade populations. The difficulty is puting in systems that catch metadata manipulation in a way that doesn't collect data that could be infringing on privacy rights/laws.
 
+# Week 9
+
+The readings paint a dire but not surprising reality that users expect security to be done for them. Browser security settings only go so far, with popups and alerts in Google Chrome going unnoticed or ignored, it becomes a behavioral analysis issue. What images or sizes of font is needed in order for people to realize what they're about to click may unleash a trojan onto their system? There is unfortunately a large gap in understanding computers and it needs to be addressed in the design process before deployment. 
+
+It seems like a game of "satisfy the most people's wants" rather than create the most secure system ever. People want to have the freedom to click on a website even if it malicious. If a browser refused to even go to the site, then most likely another browser would be downloaded to reach it. If I were to make a suggestion, I would hope someone would design a browser that exists solely in a VM that allows for browsing to ones hearts content. Then if they happen to click on a trojan, the hypervisor simply lets them know the VM will shut down and restart because they clicked a big "no-no". Downloads would be allowed, but sent to another VM for use. In this way if either VM was compromised, you'd still have access to the main system. 
+
+At the end of the day, systems need to be dumbed down even more, and security needs to be made even simpler.
+
+### References
+Akhawe, D; Felt, A. Alice in Warningland: A Large-Scale   Field Study of Browser Security Warning Effectiveness. 2013. 22nd   USENIX Security Symposium.
+Bravo-Lillo, C.; Komanduri, S.; Cranor, L.; Reeder,   R.; Sleeper, M.; Downs, J.; Schechter, S. Your Attention Please. 2013. Symposium   on Usable Privacy and Secuirty.
+
 # Case Study
 <h2>
 <p align="center"> 
